@@ -19,6 +19,7 @@ Before diving into statistical modeling, we conducted a thorough Exploratory Dat
 * Understand customer demographics (age and gender distribution).
 * Analyze sales trends across different shopping malls and product categories.
 * Identify the distribution of payment preferences.
+* Analyze time-series trends to identify potential peak seasons.
 
 ### 2. Linear Correlation & Feature Exploration
 We extended our analysis to investigate relationships between different continuous and categorical variables:
